@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/especialista.png">
     <div class="sections">
       <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
-        <h2 class="center">Especialistas</h2>
+        <h2 class="center">O Que Dizem os Especialistas?</h2>
         <div class="section" v-for="entry in entries[section]" :key="entry.id">
           <div class="entry">
             <h3 @click="$router.push({name: entry.id})">

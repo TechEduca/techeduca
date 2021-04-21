@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/quiz.png">
     <div class="sections">
       <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
-        <h2 class="center">Entrevistas</h2>
+        <h2 class="center">Informações Complementares</h2>
         <div class="section" v-for="entry in entries[section]" :key="entry.id">
           <div class="entry">
             <h3 @click="$router.push({name: entry.id})">
