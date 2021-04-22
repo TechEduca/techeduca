@@ -3,6 +3,33 @@
     <img alt="Vue logo" src="../assets/logo.png" />
     <br />
     <h2 class="center">Tech Educa</h2>
+    <p align="Center">
+      Olá, seja bem-vindo ao Tech Educa, vamos nos conhecer?
+    </p>
+    <p align="Justify">
+      Eu sou um Web App, e fui desenvolvido com o objetivo de ajudar na
+      diminuição do uso de tecnologia entre as crianças.
+    </p>
+    <p align="Justify">
+      Desde o seu surgimento a tecnologia vem ajudando a humanidade de várias
+      formas, é da sabedoria de todos que ela sempre foi uma grande aliada.
+      Entretanto, com o seu desenvolvimento ao longo dos anos muitos tornaram-se
+      reféns dos meios tecnológicos, e algo que deveria ser um objeto de ajuda
+      criou escravos.
+    </p>
+    <p align="Justify">
+      Partindo desses argumentos, algumas pesquisas de campo tornaram possível a
+      conclusão de que o vício em questão afeta majoritariamente o público
+      infantil, e não apenas por torná-los reféns de telas, até porque as saúdes
+      mental e física dessas crianças também são prejudicadas.
+    </p>
+    <p align="Justify">
+      Portanto, é necessário preservar o bem-estar das crianças. Assim, eu, o
+      Tech Educa, vim para ajudá-los a combater esse mal, aqui você encontrará
+      tudo que precisa para auxiliar seu pequeno a se desprender das telas e/ou
+      usá-las de maneira correta e educativa.
+    </p>
+    <p align="Center">Façam proveito de nosso conteúdo!</p>
     <div>
       <v-container fluid>
         <v-row dense>

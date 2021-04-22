@@ -1,14 +1,16 @@
 {
   "especialistas": [
     {
-      "id": "Especialistas-exemplo-001",
-      "date": "16/10/2020",
-      "title":"Exemplo Postagem",
-      "description": "Exemplo de postagem no app!"
+      "id": "Especialistas-tecnologiaafeta-001",
+      "date": "22/04/2021",
+      "title":"Como a tecnologia afeta o desenvolvimento das crianças",
+      "description": "Segundo o site “neuroconecte” a tecnologia afeta de inúmeras maneiras..."
+    },
+    {
+      "id": "Especialistas-influenciatecnologia-002",
+      "date": "22/04/2021",
+      "title":"A influência da tecnologia na infância! Perigo ou incentivo?",
+      "description": "Atualmente, é perceptível que as atividades recreativas tradicionais..."
     }
   ]
 }
-  
-   
-     
-  
