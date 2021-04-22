@@ -72,7 +72,7 @@ export default {
         link: "/paiseresponsaveis",
       },
       {
-        title: "Oque Dizem os Especialistas?",
+        title: "O que Dizem os Especialistas?",
         src:
           "https://raw.githubusercontent.com/TechEduca/images-upload/main/img-layout/especialista.png",
         link: "/especialistas",
