@@ -46,7 +46,7 @@
     </v-main>
 
     <v-footer app class="justify-center">
-      <span>&copy; 2021 | Tech Educa</span>
+      <span>Tech Educa&copy; | 2021</span>
     </v-footer>
   </v-app>
 </template>

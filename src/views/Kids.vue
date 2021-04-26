@@ -3,54 +3,17 @@
     <img alt="Vue logo" src="../assets/kids.png" />
     <br />
     <h2 class="center">Kids</h2>
-    <p align="Justify">
-      Lorem ipsum dolor sit amet. Aut velit sunt qui ipsam architecto et dicta
-      galisum in galisum laudantium. Est fuga iure in dolores iure id error
-      similique. Ut modi quae nam corrupti suscipit et officia internos ab porro
-      accusamus et ipsum omnis aut quidem minima ab officia doloribus. Quo
-      eligendi recusandae non excepturi galisum non labore odio sit pariatur
-      eveniet sit aliquam nihil id nihil mollitia. Qui inventore distinctio vel
-      beatae odit et repellat illo et optio ullam aut minus enim id culpa
-      recusandae et temporibus architecto. Aut voluptate aspernatur et corrupti
-      provident quo expedita doloribus 33 dignissimos doloribus aut quod dolore
-      eos quia deserunt hic tempora consequuntur. Ab assumenda illum sed
-      voluptates adipisci sed veritatis omnis et consequatur voluptatum in
-      numquam consequatur et nihil unde. Vel dignissimos possimus qui laboriosam
-      sequi vel similique porro. Et dolore cumque 33 odio inventore et quidem
-      omnis est enim amet sed labore totam aut sint Quis et amet cupiditate.
-    </p>
-    <p align="Justify">
-      Lorem ipsum dolor sit amet. Aut velit sunt qui ipsam architecto et dicta
-      galisum in galisum laudantium. Est fuga iure in dolores iure id error
-      similique. Ut modi quae nam corrupti suscipit et officia internos ab porro
-      accusamus et ipsum omnis aut quidem minima ab officia doloribus. Quo
-      eligendi recusandae non excepturi galisum non labore odio sit pariatur
-      eveniet sit aliquam nihil id nihil mollitia. Qui inventore distinctio vel
-      beatae odit et repellat illo et optio ullam aut minus enim id culpa
-      recusandae et temporibus architecto. Aut voluptate aspernatur et corrupti
-      provident quo expedita doloribus 33 dignissimos doloribus aut quod dolore
-      eos quia deserunt hic tempora consequuntur. Ab assumenda illum sed
-      voluptates adipisci sed veritatis omnis et consequatur voluptatum in
-      numquam consequatur et nihil unde. Vel dignissimos possimus qui laboriosam
-      sequi vel similique porro. Et dolore cumque 33 odio inventore et quidem
-      omnis est enim amet sed labore totam aut sint Quis et amet cupiditate.
-    </p>
-    <p align="Justify">
-      Lorem ipsum dolor sit amet. Aut velit sunt qui ipsam architecto et dicta
-      galisum in galisum laudantium. Est fuga iure in dolores iure id error
-      similique. Ut modi quae nam corrupti suscipit et officia internos ab porro
-      accusamus et ipsum omnis aut quidem minima ab officia doloribus. Quo
-      eligendi recusandae non excepturi galisum non labore odio sit pariatur
-      eveniet sit aliquam nihil id nihil mollitia. Qui inventore distinctio vel
-      beatae odit et repellat illo et optio ullam aut minus enim id culpa
-      recusandae et temporibus architecto. Aut voluptate aspernatur et corrupti
-      provident quo expedita doloribus 33 dignissimos doloribus aut quod dolore
-      eos quia deserunt hic tempora consequuntur. Ab assumenda illum sed
-      voluptates adipisci sed veritatis omnis et consequatur voluptatum in
-      numquam consequatur et nihil unde. Vel dignissimos possimus qui laboriosam
-      sequi vel similique porro. Et dolore cumque 33 odio inventore et quidem
-      omnis est enim amet sed labore totam aut sint Quis et amet cupiditate.
-    </p>
+    <h2 class="center">Júlia e os riscos da tecnologia para as crianças!!</h2>
+    <br />
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube.com/embed/2cuo2neiu_g"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <br />
   </div>
 </template>
 
@@ -114,5 +77,25 @@ p {
 
 .group {
   margin-bottom: 4rem;
+}
+
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: "";
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 </style>
