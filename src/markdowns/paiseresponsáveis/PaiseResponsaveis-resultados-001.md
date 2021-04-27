@@ -9,7 +9,7 @@ Agora quero mostrar a vocês alguns resultados de uma pesquisa realizada por meu
 
 A pesquisa foi realizada com alguns pais e responsáveis do Colégio Jesus Cristo Rei, com o intuito de entender o uso da tecnologia entre as crianças.
 
- <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/1.1.jpg" >
+<img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/1.1.jpg" >
 </div>
 <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/1.2.jpg" >
 </div>
