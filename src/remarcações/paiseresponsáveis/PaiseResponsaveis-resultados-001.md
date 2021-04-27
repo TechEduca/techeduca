@@ -13,7 +13,7 @@ A pesquisa foi realizada com alguns pais e responsáveis do Colégio Jesus Crist
 </div>
 <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/1.2.jpg" >
 </div>
- <img class = "img-config" src = " https://raw.githubusercontent.com/TechEduca/images-upload/main/1.3.jpg"> 
+ <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/1.3.jpg"> 
 </div>
 <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/2.1.jpg" >
 </div>
@@ -35,5 +35,9 @@ Tais resultados são preocupantes, já que, o tempo de uso de internet e celular
 Então, queridos, ao analisar esses resultados e o mundo atual, veja se é realmente necessário inserir tão precocemente a tecnologia na vida de suas crianças e se vale a pena usá-la de maneira exagerada e sem fins educativos. Estou aqui para ajudar vocês a compreenderem e colocarem em prática as melhores formas de incluir eletrônicos na rotina de seus filhos.
 
 Até breve, logo volto com mais informações!
+
+
+
+
 
 
