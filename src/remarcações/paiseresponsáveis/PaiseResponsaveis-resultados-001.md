@@ -1,5 +1,5 @@
 <center> <h1> Resultado da pesquisa </h1> </center>
-<h3> 26 de abril de 2021 </h3>
+<h3> 26 de abril de 2021 </h3
 
 
 Olá queridos responsáveis, como estão?  
