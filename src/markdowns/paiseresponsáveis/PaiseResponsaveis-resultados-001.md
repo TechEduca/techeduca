@@ -20,13 +20,6 @@ A pesquisa foi realizada com alguns pais e responsáveis do Colégio Jesus Crist
  <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/2.2.jpg">
 </div>
 
- 
-
- 
-
-
-
- 
 Como é possível perceber, grande parcela dos alunos tem contato direto com os eletrônicos. Sendo o mais preocupante, o tempo que estes passam em frente às telas, visto que, mais da metade dos entrevistados optaram pela resposta de mais de 3 horas de uso.
 
 É perceptível também que mais de 50% dos pais não têm controle sobre o tempo que seus filhos passam diante das telas, entretanto, se fosse controlado, esse período poderia ser usado em prol da educação das crianças
@@ -35,3 +28,9 @@ Tais resultados são preocupantes, já que, o tempo de uso de internet e celular
 Então, queridos, ao analisar esses resultados e o mundo atual, veja se é realmente necessário inserir tão precocemente a tecnologia na vida de suas crianças e se vale a pena usá-la de maneira exagerada e sem fins educativos. Estou aqui para ajudar vocês a compreenderem e colocarem em prática as melhores formas de incluir eletrônicos na rotina de seus filhos.
 
 Até breve, logo volto com mais informações!
+
+
+
+
+
+
