@@ -13,7 +13,7 @@ A pesquisa foi realizada com alguns pais e responsáveis do Colégio Jesus Crist
 </div>
 <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/1.2.jpg" >
 </div>
- <img class = "img-config" src = " https://raw.githubusercontent.com/TechEduca/images-upload/main/1.3.jpg" >
+ <img class = "img-config" src = " https://raw.githubusercontent.com/TechEduca/images-upload/main/1.3.jpg"> 
 </div>
 <img class = "img-config" src = "https://raw.githubusercontent.com/TechEduca/images-upload/main/2.1.jpg" >
 </div>
