@@ -1,8 +1,8 @@
-<center> <h1> Resultado da pesquisa </h1> </center>
+  <center> <h1> Resultado da pesquisa </h1> </center>
 <h3> 26 de abril de 2021 </h3
 
 
-Olá queridos responsáveis, como estão?  
+Olá queridos responsáveis, como estão?
 
 Espero que eu, o Tech educa, já tenha conseguido ajudá-los de alguma forma.
 Agora quero mostrar a vocês alguns resultados de uma pesquisa realizada por meus criadores sobre o uso da tecnologia. Ela foi desenvolvida para apresentar através de estatísticas reais o que já vem sendo discutido ao longo dos meus conteúdos.
@@ -35,3 +35,5 @@ Tais resultados são preocupantes, já que, o tempo de uso de internet e celular
 Então, queridos, ao analisar esses resultados e o mundo atual, veja se é realmente necessário inserir tão precocemente a tecnologia na vida de suas crianças e se vale a pena usá-la de maneira exagerada e sem fins educativos. Estou aqui para ajudar vocês a compreenderem e colocarem em prática as melhores formas de incluir eletrônicos na rotina de seus filhos.
 
 Até breve, logo volto com mais informações!
+
+
