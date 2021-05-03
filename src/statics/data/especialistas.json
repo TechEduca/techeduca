@@ -1,6 +1,12 @@
 {
   "especialistas": [
     {
+      "id": "Especialistas-psicologo-004",
+      "date": "03/05/2021",
+      "title":" Como a tecnologia influência a saúde mental e o desenvolvimento das crianças?",
+      "description": "Psicólogo Joseli da Silva Quaresma"
+    },
+    {
       "id": "Especialistas-pediatra-003",
       "date": "02/05/2021",
       "title":"As principais consequências da tecnologia na saúde da criança e do adolescente",
